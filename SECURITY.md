@@ -1,0 +1,1 @@
+--global user.email "williamsonthora@gmail.com" git config --global user.name "ArianFarr" to set your account's default identity. Omit --global to set the identity only in this repository. unable to auto-detect email address (got 'Arian@DESKTOP-ORPGBNN.(none)')
